@@ -1,16 +1,17 @@
-# CSUN ECE your-class-number
-- Getting Started with Git
+# <h1>CSUN ECE 420</h1>
+## Getting Started with Git  
+**Name: David Chun**  
+**Date: 9/2/2021 || Due: 9/6/2021 11:59 PM**
 
+* FPGA  
+* VHDL  
+* Verilog  
 
+![CSUN Logo](/img/csun_eng_logo.png)  
+ 
+[David Chun](http://github.com/chundew)  
 
-
-
-
-
-!["screenshot 1 of website after adjustments"] (./img/csun_eng_logo.png)
-
-
-
+```vhdl 
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.std_logic_unsigned.all;
@@ -39,3 +40,6 @@ begin
     end process;
     count <= pre_count;
 end Behavioral;
+```
+
+![Git Status Before Stage](/img/csun_eng_logo.png) 
